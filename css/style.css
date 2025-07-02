@@ -8,7 +8,6 @@ body {
   color: #333;
 }
 
-/* Overlay to soften background */
 body::before {
   content: '';
   position: fixed;
