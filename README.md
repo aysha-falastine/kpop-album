@@ -38,9 +38,9 @@ An interactive web app to browse and discover K-Pop albums with cover images, se
 ## 🚀 Getting Started
 
 1. Clone the repository:
-git clone 
+git clone git@github.com:aysha-falastine/kpop-album.git
 2. Navigate into the folder:
-cd kpop-album-explorer
+cd kpop-album
 Open `index.html` in your browser.
 
 ---
@@ -48,7 +48,7 @@ Open `index.html` in your browser.
 ## 📂 Project Structure
 
 /img # Album cover images
-/screenshots # Screenshots
+/images
 /css # Stylesheets
 /js # JavaScript files
 db.json # Album data
@@ -65,7 +65,7 @@ index.html # Main HTML file
 
 ## 💜 Credits
 
-- Album covers and data from Spotify.
+- Album covers and data from pintrest.
 - Inspired by K-Pop fandom.
 
 ---
