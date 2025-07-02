@@ -6,7 +6,7 @@ const genreFilter = document.getElementById('genreFilter');
 const viewBtn = document.getElementById('viewAlbumsBtn');
 const clearBtn = document.getElementById('clearAlbumsBtn');
 
-// Create Form Elements
+// Creating Form Elements
 const createForm = document.createElement('form');
 createForm.className = 'album-form';
 createForm.innerHTML = `
