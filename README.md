@@ -35,6 +35,25 @@ An interactive web app to browse and discover K-Pop albums with cover images, se
 
 
 ---
+## 🚀 Getting Started
+
+1. Clone the repository:
+git clone 
+2. Navigate into the folder:
+cd kpop-album-explorer
+Open `index.html` in your browser.
+
+---
+
+## 📂 Project Structure
+
+/img # Album cover images
+/screenshots # Screenshots
+/css # Stylesheets
+/js # JavaScript files
+db.json # Album data
+index.html # Main HTML file
+
 
 ## 🌟 Technologies
 
