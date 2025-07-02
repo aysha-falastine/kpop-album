@@ -174,40 +174,66 @@ body.dark-mode #contactSection {
 body.dark-mode .album-title {
   color: #d47ed4;
 }
-/* Album Controls Buttons */
-.album-controls {
+/* Album Create Form */
+.album-form {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   display: flex;
-  gap: 12px;
-  margin: 15px 0 25px;
   flex-wrap: wrap;
+  gap: 12px;
 }
 
-.album-controls button {
-  background: #a749a4; /* Same purple as your nav buttons */
+.album-form h3 {
+  width: 100%;
+  margin: 0 0 10px;
+  font-size: 1.3em;
+  color: #a749a4;
+}
+
+.album-form input {
+  flex: 1 1 200px;
+  padding: 10px;
+  border: 2px solid #d4a5d4;
+  border-radius: 6px;
+  font-size: 1em;
+}
+
+.album-form button {
+  background: #a749a4;
   color: #fff;
   border: none;
   padding: 10px 18px;
+  border-radius: 6px;
   font-size: 1em;
   font-weight: bold;
-  border-radius: 6px;
   cursor: pointer;
-  box-shadow: 0 4px 10px rgba(167, 73, 164, 0.3);
-  transition: background 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  transition: background 0.3s ease, box-shadow 0.3s ease;
 }
 
-.album-controls button:hover {
-  background: #8b398b; /* Darker purple on hover */
-  transform: translateY(-2px);
-  box-shadow: 0 6px 14px rgba(139, 57, 139, 0.4);
+.album-form button:hover {
+  background: #8b398b;
+  box-shadow: 0 4px 10px rgba(139, 57, 139, 0.4);
 }
 
-/* Dark Mode Buttons */
-body.dark-mode .album-controls button {
+/* Dark mode form */
+body.dark-mode .album-form {
+  background: rgba(30, 30, 30, 0.95);
+}
+
+body.dark-mode .album-form input {
+  background: #222;
+  color: #eee;
+  border: 2px solid #555;
+}
+
+body.dark-mode .album-form button {
   background: #333;
   color: #eee;
 }
 
-body.dark-mode .album-controls button:hover {
+body.dark-mode .album-form button:hover {
   background: #555;
-  box-shadow: 0 6px 14px rgba(0,0,0,0.4);
 }

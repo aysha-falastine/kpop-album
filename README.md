@@ -5,6 +5,7 @@ An interactive web app to browse and discover K-Pop albums with cover images, se
 
 ## Preview
 ![alt text](image.png)
+![alt text](image-1.png)
 
 
 ## ✨ Features
