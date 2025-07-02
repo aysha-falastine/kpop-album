@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>K-Pop Album Explorer</title>
+  <link rel="stylesheet" href="./css/style.css" />
+  <script defer src="./src/script.js"></script>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="navbar container">
+      <h1 class="logo">K-Pop Album Explorer 💜</h1>
+      <nav>
+        <ul class="nav-links">
+          <li><button id="homeBtn">Home</button></li>
+          <li><button id="aboutBtn">About</button></li>
+          <li><button id="contactBtn">Contact</button></li>
+        </ul>
+      </nav>
+      <button id="toggleDarkMode" class="dark-mode-btn">🌙 Dark Mode</button>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <section id="homeSection">
+      <div class="search-filter">
+        <input type="text" id="searchInput" placeholder="Search albums..."/>
+        <select id="genreFilter">
+          <option value="all">All Genres</option>
+        </select>
+      </div>
+
+      <!-- ⭐️⭐️ Buttons to View and Clear Albums ⭐️⭐️ -->
+      <div class="album-controls">
+        <button id="viewAlbumsBtn">View Albums</button>
+        <button id="clearAlbumsBtn">Clear</button>
+      </div>
+
+      <div id="albumContainer"></div>
+    </section>
+
+    <section id="aboutSection" style="display:none;">
+      <h2>About</h2>
+      <p>This site lets you discover your favorite K-Pop albums and artists.</p>
+    </section>
+
+    <section id="contactSection" style="display:none;">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:kpop@example.com">kpop@example.com</a></p>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 K-Pop Album Explorer. All rights reserved.</p>
+  </footer>
+</body>
+</html>

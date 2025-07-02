@@ -1,0 +1,111 @@
+{
+  "albums": [
+    {
+      "title": "Map of the Soul: 7",
+      "artist": "BTS",
+      "year": 2020,
+      "genre": "Pop",
+      "cover": "https://i.pinimg.com/736x/3d/3c/38/3d3c38bf517414cfc013e2e52d527259.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j?si=yRSQHCM-Qo-FPUvGUoqFxQ"
+    },
+    {
+      "id": 2,
+      "title": "Noeasy",
+      "artist": "Stray Kids",
+      "year": 2021,
+      "genre": "Hip-Hop",
+      "cover": "https://i.pinimg.com/736x/a4/7d/9f/a47d9f9bf11a3b53683ce2f43b6e7607.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj?si=cJuqJhg7ShGFmyvfsNYHrg"
+    },
+    {
+      "id": 3,
+      "title": "Your Choice",
+      "artist": "SEVENTEEN",
+      "year": 2021,
+      "genre": "Pop",
+      "cover": "https://i.pinimg.com/736x/3a/5b/61/3a5b617c840c7399ab17e671218f2680.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc?si=iiED8fCES0SpzENPqzyXZQ"
+    },
+    {
+      "id": 4,
+      "title": "Formula of Love: O+T=<3",
+      "artist": "TWICE",
+      "year": 2021,
+      "genre": "Dance",
+      "cover": "https://i.pinimg.com/736x/bf/17/e6/bf17e674f25c66b3d07d9139a7b5b1e2.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq?si=qTI9VL35RUugVfNHFa-tuA"
+    },
+    {
+      "id": 5,
+      "title": "THE ALBUM",
+      "artist": "BLACKPINK",
+      "year": 2020,
+      "genre": "Pop",
+      "cover": "https://i.pinimg.com/736x/5a/8c/c7/5a8cc7f685fd69c1fbef5dd8bd7ab4c7.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N?si=diG6GgIpSNi3nZlHgIq71g"
+    },
+    {
+      "id": 6,
+      "title": "Dimension: Dilemma",
+      "artist": "ENHYPEN",
+      "year": 2021,
+      "genre": "Pop",
+      "cover": "https://i.pinimg.com/736x/68/e0/b0/68e0b0b0e58ed1732f88163232612a84.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI?si=Ezx_64mdRqCjs4FHx6w1KQ"
+    },
+    {
+      "id": 7,
+      "title": "Kpop Demon Hunter Mix",
+      "artist": "Various Artists",
+      "year": 2024,
+      "genre": "Rock/Pop",
+      "cover": "https://i.pinimg.com/736x/6b/ad/5b/6bad5bfa7d1dc4b66a95a428fd976611.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9?si=u9YkLWO7TvmxBnmJg1WPsA"
+    },
+    {
+      "id": 8,
+      "title": "IN生",
+      "artist": "Stray Kids",
+      "year": 2023,
+      "genre": "Hip-Hop",
+      "cover": "https://i.pinimg.com/736x/6c/00/22/6c0022894a0fbaef2b84736b15f33cac.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X?si=3QW1mtmrQPyBaPsOHq1xKg"
+    },
+    {
+      "id": 9,
+      "title": "Attacca",
+      "artist": "SEVENTEEN",
+      "year": 2021,
+      "genre": "Pop",
+      "cover": "https://i.pinimg.com/736x/65/e2/9d/65e29db553cf5ba3c46106a8719066d5.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd?si=w8gRAEzUQD2b-3qYRQd_Gg"
+    },
+    {
+      "id": 10,
+      "title": "Eyes Wide Open",
+      "artist": "TWICE",
+      "year": 2020,
+      "genre": "Dance",
+      "cover": "https://i.pinimg.com/736x/40/86/fd/4086fda3387f1b2d1891b94cc7a33208.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH?si=pjvlkUpUQxG6kEfQNEDX_Q"
+    },
+    {
+      "id": 11,
+      "title": "Born Pink",
+      "artist": "BLACKPINK",
+      "year": 2022,
+      "genre": "Pop",
+      "cover": "https://i.pinimg.com/736x/e4/db/4f/e4db4f3be704a6f4d505bb4181160ab5.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P?si=f_d9kzQtQKq9W2r8H4rG6Q"
+    },
+    {
+      "id": 12,
+      "title": "BORDER : CARNIVAL",
+      "artist": "ENHYPEN",
+      "year": 2021,
+      "genre": "Pop",
+      "cover": "https://i.pinimg.com/736x/8c/99/a0/8c99a00dbc063ae64cd7b342dcf184d9.jpg",
+      "spotifyUrl": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv?si=DUtic-cbT7iCF6VInhH8XA"
+    }
+  ]
+}
