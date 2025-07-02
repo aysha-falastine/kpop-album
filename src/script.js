@@ -1,5 +1,5 @@
 let albums = [];
-const BASE_URL = "https://json-server-32dd.onrender.com/albums"; // Your API
+const BASE_URL = "https://json-server-32dd.onrender.com/albums"; // 
 const albumContainer = document.getElementById('albumContainer');
 const searchInput = document.getElementById('searchInput');
 const genreFilter = document.getElementById('genreFilter');
