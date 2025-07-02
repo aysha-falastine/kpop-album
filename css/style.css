@@ -16,7 +16,7 @@ body::before {
   z-index: -1;
 }
 
-/* Navbar */
+
 .navbar {
   display: flex;
   justify-content: space-between;
