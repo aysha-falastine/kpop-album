@@ -28,7 +28,10 @@ An interactive web app to browse and discover K-Pop albums with cover images, se
 - Creates and injects album cards.
 - Adds event listeners for filtering and navigation.
 - Handles dark mode toggle.
-- Opens Spotify links when albums are clicked.
+- you can add album
+- you can delete an album
+- you can edit the album
+- it has all the CRUD functionalities
 
 
 ---
